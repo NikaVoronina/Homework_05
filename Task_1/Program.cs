@@ -18,4 +18,4 @@ for (int i = 0; i < array.Length; i++)
         count += 1;
         }
 }
-Console.WriteLine($"в данном массиве чётных чисел -> {count}.");
+Console.WriteLine($"\nВ данном массиве чётных чисел -> {count}.");
